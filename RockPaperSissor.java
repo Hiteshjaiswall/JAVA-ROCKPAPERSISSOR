@@ -47,5 +47,6 @@ public class RockPaperSissor {
             break;
         }
 }
+scanner.close();
 }
 }
